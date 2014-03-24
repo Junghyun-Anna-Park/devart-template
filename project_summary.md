@@ -1,9 +1,9 @@
 # Project Title
-Insert the name of your project
+BE WHAT YOU LOVE
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+- JunYoung Choi, github account
+- JungHyun Anna Park, github account (one per list element)
 
 ## Description
 As theorizing in science and technology becomes more complex, interacting mechanisms is applied to complex, possibly reactive input. The intuitive predictions derived from theories actually hold, but some researchers have questions whether the measure of what we love should be used at all. Such quantitative predictions remain an important aspect of who we are. So we decide to be what we love.
