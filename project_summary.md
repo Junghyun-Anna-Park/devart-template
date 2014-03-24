@@ -6,7 +6,7 @@ Insert the name of your project
 - Insert other author(s) name, surname, github account (one per list element)
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+As theorizing in science and technology becomes more complex, interacting mechanisms is applied to complex, possibly reactive input. The intuitive predictions derived from theories actually hold, but some researchers have questions whether the measure of what we love should be used at all. Such quantitative predictions remain an important aspect of who we are. So we decide to be what we love.
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
