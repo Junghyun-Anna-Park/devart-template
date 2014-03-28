@@ -6,7 +6,7 @@ BE WHAT YOU LOVE
 - JungHyun Anna Park, github account (one per list element)
 
 ## Description
-As theorizing in science and technology becomes more complex, interacting mechanisms is applied to complex, possibly reactive input. The intuitive predictions derived from theories actually hold, but some researchers have questions whether the measure of what we love should be used at all. Such quantitative predictions remain an important aspect of who we are. So we decide to be what we love.
+As theorizing in science and technology becomes more complex, interacting mechanisms is applied to possibly reactive input. The intuitive predictions derived from theories actually hold, but some researchers have questions whether the measure of what we love should be used at all. Such quantitative predictions remain an important aspect of who we are. So we decide to be what we love.
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
