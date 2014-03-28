@@ -17,10 +17,10 @@ Simple-OPENNI
 ## Images & Videos
 De-Code, Creative media computing group at KAIST, had created a Kinect-powered interactive art installation for spring festival annually named FUNACT. The concept behind shows happy our school life through the interactive building projection. Such installation reads the student’s entire body, motion and gesture to match algorithmically generated skeleton. Students then get score (e.g., bad, good, and excellent) depend on match moving. The software that generated the FUNACT are used mainly: kinect and processing.
 
-De-Code: Creative media computing group at KAIST (www.de-code.cc)
-Designer: JunYoung Choi, JongBum Park
-Coder:SaeHun Chung, JaeYeong Jo
-Art Director:JungHyun Anna Park
+We are Creative media computing group at KAIST: De-Code! (www.de-code.cc)
+* Designer: JunYoung Choi, JongBum Park
+* Coder:SaeHun Chung, JaeYeong Jo
+* Art Director:JungHyun Anna Park
 
 ![Example Image](http://static.wixstatic.com/media/b5d789_42bf29494ec64644b34171232863f2b5.jpg_srz_p_607_397_75_22_0.50_1.20_0.00_jpg_srz "Example Image") 
 
