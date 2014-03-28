@@ -1,12 +1,13 @@
 # Project Title
-BE WHAT YOU LOVE
+
+KAIST spring festival 2014 FUNACT: Interactive building projection.
 
 ## Authors
-- JunYoung Choi, github account
-- JungHyun Anna Park, github account (one per list element)
+- SaeHun Chung
 
 ## Description
-As theorizing in science and technology becomes more complex, interacting mechanisms is applied to possibly reactive input. The intuitive predictions derived from theories actually hold, but some researchers have questions whether the measure of what we love should be used at all. Such quantitative predictions remain an important aspect of who we are. So we decide to be what we love.
+De-Code(www.de-code.cc) is creative media computing group at Korea Advanced Institute of Science and Technology(KAIST): Code is one of key initiative for Design. As theorizing in science and technology becomes more complex, interacting mechanisms is applied to possibly reactive input. The intuitive predictions derived from theories actually hold, but some researchers have questions whether the measure of what we love should be used at all. Such quantitative predictions remain an important aspect of who we are. So we decide to be what we love.
+
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
