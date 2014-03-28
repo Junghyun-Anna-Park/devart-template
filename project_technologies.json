@@ -4,13 +4,10 @@
             ""
         ],
         "platforms": [
-            ""
+            "arduino"
         ],
         "toolkits": [
             "kinect"
-        ],
-        "language": [
-            "processing"
         ]
     },
     "themes": [
