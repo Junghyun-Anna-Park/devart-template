@@ -1,1 +1,6 @@
-Insert a description to describe your update to document your creative process. The Commissioned Interactive Artists will be doing the same so you can reference their Project Posts.
+
+We are Creative media computing group at KAIST: Designer-cum-Coder! (www.de-code.cc)
+
+Designer: JunYoung Choi, JongBum Park
+Coder:SaeHun Chung, JaeYeong Jo
+Art Director:JungHyun Anna Park
