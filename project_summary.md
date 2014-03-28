@@ -29,6 +29,6 @@ function test() {
 ## Images & Videos
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
-![Example Image](http://www.de-code.cc/#!portfolio/component_71401 "Example Image")
+![Example Image](http://static.wixstatic.com/media/b5d789_42bf29494ec64644b34171232863f2b5.jpg_srz_p_607_397_75_22_0.50_1.20_0.00_jpg_srz "Example Image")
 
 http://www.youtube.com/watch?v=FAO8Cdg0aM4
