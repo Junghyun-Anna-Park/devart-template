@@ -29,8 +29,7 @@ function test() {
 ## Images & Videos
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
-![Example Image](http://static.wixstatic.com/media/b5d789_42bf29494ec64644b34171232863f2b5.jpg_srz_p_607_397_75_22_0.50_1.20_0.00_jpg_srz "Example Image")
-![Example Image](http://static.wixstatic.com/media/b5d789_d50cd75c992c4fd692117b3359538468.jpg_srz_p_607_401_75_22_0.50_1.20_0.00_jpg_srz "Example Image")
+![Example Image](http://static.wixstatic.com/media/b5d789_42bf29494ec64644b34171232863f2b5.jpg_srz_p_607_397_75_22_0.50_1.20_0.00_jpg_srz "Example Image") (http://static.wixstatic.com/media/b5d789_d50cd75c992c4fd692117b3359538468.jpg_srz_p_607_401_75_22_0.50_1.20_0.00_jpg_srz "Example Image")
 ![Example Image](http://static.wixstatic.com/media/b5d789_7423550ed90d45b0be8715589eaf993e.jpg_srz_p_607_441_75_22_0.50_1.20_0.00_jpg_srz "Example Image")
 ![Example Image](http://static.wixstatic.com/media/b5d789_81879896d8324659a67eec5e4cccdfbf.jpg_srz_p_607_406_75_22_0.50_1.20_0.00_jpg_srz "Example Image")
 ![Example Image](http://static.wixstatic.com/media/b5d789_12d564f63251433bab8a9f79eea1d230.jpg_srz_p_607_406_75_22_0.50_1.20_0.00_jpg_srz "Example Image")
