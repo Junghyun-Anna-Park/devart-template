@@ -39,4 +39,5 @@ NOTE: For additional images you can either use a relative link to an image on th
 
 ![Example Image](http://static.wixstatic.com/media/b5d789_12d564f63251433bab8a9f79eea1d230.jpg_srz_p_607_406_75_22_0.50_1.20_0.00_jpg_srz "Example Image")
 
+
 http://www.youtube.com/watch?v=FAO8Cdg0aM4
