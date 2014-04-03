@@ -3,7 +3,7 @@ KAIST spring festival 2014 FUNACT: Interactive building projection.
 
 
 ## Authors
-* Coder: SaeHun Chung
+* Artist (Designer-cum-coder): SaeHun Chung
 * Art Director: JungHyun Anna Park
 
 
