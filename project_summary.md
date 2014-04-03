@@ -3,7 +3,8 @@ KAIST spring festival 2014 FUNACT: Interactive building projection.
 
 
 ## Authors
-- SaeHun Chung
+* Coder: SaeHun Chung
+* Art Director: JungHyun Anna Park
 
 
 ## Description
@@ -15,12 +16,8 @@ Simple-OPENNI
 
  
 ## Images & Videos
-De-Code, Creative media computing group at KAIST, had created a Kinect-powered interactive art installation for spring festival named FUNACT annually. The concept behind shows happy our school life through the interactive building projection. Such installation reads the student’s entire body, motion and gesture to match algorithmically generated skeleton. Students then get score (e.g., bad, good, and excellent) depend on match moving. The software that generated the FUNACT are used mainly: kinect and processing.
+De-Code:Designer-cum-Coder! (www.de-code.cc), Creative media computing group at KAIST, had created a Kinect-powered interactive art installation for spring festival named FUNACT annually. The concept behind shows happy our school life through the interactive building projection. Such installation reads the student’s entire body, motion and gesture to match algorithmically generated skeleton. Students then get score (e.g., bad, good, and excellent) depend on match moving. The software that generated the FUNACT are used mainly: kinect and processing.
 
-We are creative media computing group at KAIST: Designer-cum-Coder! (www.de-code.cc)
-* Designer: JunYoung Choi, JongBum Park
-* Coder: SaeHun Chung, JaeHyeong Cho
-* Art Director: JungHyun Anna Park
 
 
 ![Example Image](http://static.wixstatic.com/media/b5d789_42bf29494ec64644b34171232863f2b5.jpg_srz_p_607_397_75_22_0.50_1.20_0.00_jpg_srz "Example Image") 
